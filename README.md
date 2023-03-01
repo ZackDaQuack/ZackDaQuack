@@ -1,1 +1,1 @@
-I am ZackDaQuack and i know a lot of programming languages.
+I am ZackDaQuack and I know a lot of programming languages.
